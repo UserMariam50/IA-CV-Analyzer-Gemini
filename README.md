@@ -74,7 +74,7 @@ AI-CV-Analyzer/
 
 ----------------------------
 
-# # Prérequis
+## Prérequis
 - Python 3.11 ou supérieur
 - Git (optionnel)
 - Un compte Google AI Studio pour la clé API
@@ -134,7 +134,7 @@ Téléchargez le rapport en format .txt
 
 ----------------------------
 
-# 🔧 Dépendances Principales
+## 🔧 Dépendances Principales
 Package	Version	Utilisation
 streamlit	1.28+	Interface web
 google-genai	2.0+	API Gemini
@@ -147,14 +147,14 @@ pdf2image	1.16+	Conversion PDF → Images
 
 ----------------------------
 
-# 🙏 Remerciements
+## 🙏 Remerciements
 Google Gemini : pour l'API IA
 
 Streamlit : pour le framework web
 
 Communauté Open Source : pour les outils utilisés
 
-# 📚 Documentation complémentaire
+## 📚 Documentation complémentaire
 Documentation Gemini
 
 Documentation Streamlit
