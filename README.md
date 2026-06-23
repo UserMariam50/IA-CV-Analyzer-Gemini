@@ -83,11 +83,11 @@ AI-CV-Analyzer/
 
  ##  Créer l'environnement virtuel
  Créer l'environnement virtuel
-  # Windows
+   ### Windows
 python -m venv venv
 venv\Scripts\activate
 
-# Mac/Linux
+ ###  Mac/Linux
 
 python3 -m venv venv
 source venv/bin/activate
